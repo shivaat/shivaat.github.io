@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV from [this link]().
+You can download my CV [from this link](https://shivaat.github.io/files/CV_taslimi.pdf).
