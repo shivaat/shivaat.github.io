@@ -6,22 +6,22 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Shiva Taslimi"
+locale                   : "en-UK"
+title                    : "Ayman Boustati"
 title_separator          : "-"
-name                     : &name "Shiva Taslimi"
-description              : &description "personal description"
-url                      : https://shivaat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ayman Boustati"
+description              : &description "PhD Student in the Mathematics for Real-World Systems CDT at the University of Warwick and the Alan Turing Institute"
+url                      : "https://aboustati.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://www.github.com/shivaat/shivaat.github.io"
+repository               : "aboustati/aboustati.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : "aboustati"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter AymanBoustati
 facebook:
   username               :
   app_id                 :
@@ -71,20 +71,20 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-89721511-1
 
 
 # Site Author
 author:
-  name             : "Shiva Taslimi"
-  avatar           : "profile.png"
-  bio              : "PhD Researcher in Natural Language Processing"
-  location         : "United Kingdom"
+  name             : "Ayman Boustati"
+  avatar           : "profile.jpg"
+  bio              : "PhD Student in the Mathematics for Real-World Systems CDT at the University of Warwick and the Alan Turing Institute"
+  location         : "London, UK"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=fZ9cwawAAAAJ&hl=en"
-  email            :
+  googlescholar    : 
+  email            : "ayman.boustati@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,25 +92,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shivaat"
+  github           : "aboustati"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "shiva-taslimi-7b873a86"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/0000-0002-4061-0271"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "AymanBoustati"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 
 # Reading Files
