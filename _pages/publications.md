@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2017
 
-Victoria Yaneva, __Shiva Taslimipoor__, Omid Rohanian, Le An Ha: Cognitive Processing of Multiword Expressions in Native and Non-native Speakers of English: Evidence from Gaze Data. In <i>Mitkov, R. (Ed.) Computational and Corpus-based Phraseology</i>. EUROPHRAS 2017. Lecture Notes in Computer Science, vol 10596. Springer, pages 363-379, 2017.
+Victoria Yaneva, __Shiva Taslimipoor__, Omid Rohanian, Le An Ha: Cognitive Processing of Multiword Expressions in Native and Non-native Speakers of English: Evidence from Gaze Data. In Mitkov, R. (Ed.) Computational and Corpus-based Phraseology. EUROPHRAS 2017. Lecture Notes in Computer Science, vol 10596. Springer, pages 363-379, 2017.
 
 Omid Rohanian, __Shiva Taslimipoor__, Victoria Yaneva, Le An Ha: Using Gaze data to predict Multiword Expressions. In proceedings of the 11th Conference on Advances in Natural Language Processing (RANLP 2017), Varna, Bulgaria, pages 601-609, 2017.
 
