@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 Hi! I am Ayman! Welcome to my webpage! Here is a bit of information about me if you're curious :) 
