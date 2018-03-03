@@ -12,6 +12,12 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<style>
+  .content {
+    font-size: 15px;
+}
+</style>
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -19,11 +25,7 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
-    div.ex1 {
-    width:500px;
-    margin: auto;
-    border: 3px solid #73AD21;
-}
+    <div class="content">{{ content }}</div>
+
   </div>
 </div>
