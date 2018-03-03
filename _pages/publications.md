@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=fZ9cwawAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+Mentees’ names underlined. Asterisk indicates dual first-author position. **Articles provided for personal use only.**
+
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=YRWfuEIAAAAJ&hl=en&oi=sra">my Google Scholar profile</a>.</u>
 
 <!-- {% if author.google-scholar %}
   You can also find my articles on <u><a href="{{author.google-scholar}}">my Google Scholar profile</a>.</u>
