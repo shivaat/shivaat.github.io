@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-\[Forthcoming\]
-
-Shiva Taslimipoor, Omid Rohanian, Ruslan Mitkov, Afsaneh Fazly: A fresh look at modelling and evaluation of multiword expression tokens. In Multiword expressions at length and in depth. Extended papers from the MWE 2017 workshop (editors: Stella Markantonatou, Carlos Ramisch, Agata Savary and Veronika Vincze), Language Science Press.
-
 ### 2018
+
+__Shiva Taslimipoor__, Omid Rohanian, Ruslan Mitkov, Afsaneh Fazly: Identification of multiword expressions: A fresh look at modelling and evaluation. In Multiword expressions at length and in depth. Extended papers from the MWE 2017 workshop (editors: Stella Markantonatou, Carlos Ramisch, Agata Savary and Veronika Vincze), pages 299 - 317, Language Science Press, 2018.
+
+__Shiva Taslimipoor__ and Omid Rohanian: SHOMA at Parseme Shared Task on Automatic Identification of VMWEs: Neural Multiword Expression Tagging with High Generalisation. In arXiv preprint arXiv:1809.03056.
 
 __Shiva Taslimipoor__, Omid Rohanian, Le An Ha, Gloria Corpas, Ruslan Mitkov: Wolves at SemEval-2018 Task 10: Semantic Discrimination based onKnowledge and Association. In proceedings of the 12th international workshop on semantic evaluation (SemEval 2018), pages 972-976, 2018.
 
