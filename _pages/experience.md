@@ -1,14 +1,11 @@
 ---
-layout: talk
+layout: archive
 title: ""
 permalink: /experience/
 author_profile: true
 ---
 
-
 ## WORK EXPERIENCE
-
-[bjkg](ps://shivaat.github.io/experience/)
 
 ### Postdoctoral Research Associate, October 2018 - Present
 Research Group in Computational Linguistics, University of Wolverhapton
