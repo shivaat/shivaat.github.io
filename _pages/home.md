@@ -23,10 +23,10 @@ Hi! I am now a postdoctoral researcher at the [Research Group in Computational L
 ### Education:
 
 **PhD** in Computational Linguistics, University of Wolverhampton 2014-2018\
-      . Thesis: Automatic Identification and Translation of Multiword Expressions
+* *Thesis: Automatic Identification and Translation of Multiword Expressions
 
 **M. Sc.** in Artificial Intelligence, Shiraz University 2009-2012\
-      . Thesis: Automatic Investigation of the Semantics of Persian Compound Verbs
+* *Thesis: Automatic Investigation of the Semantics of Persian Compound Verbs
 
 **B. Sc.** in Computer Science and Engineering, Shiraz University 2004-2008\
-      . Thesis: Detecting Openness of Pistachio Nuts Using Image Classification Methods
+* *Thesis: Detecting Openness of Pistachio Nuts Using Image Classification Methods
