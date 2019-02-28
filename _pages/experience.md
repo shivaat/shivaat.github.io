@@ -24,6 +24,7 @@ city of Shiraz. My responsibility was mostly focused on solving Stereopsis probl
 #### Instructor, Fall 2012 & Spring 2013
 Jahrom Universities, Iran
 
+<br>
 
 ### COMMUNITY SERVICE
 
