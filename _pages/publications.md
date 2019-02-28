@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2019
+
+Omid Rohanian, __Shiva Taslimipoor__, Samaneh Kouchaki, Le An Ha, Ruslan Mitkov: Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions. Accepted to be published at NAACL-HLT 2019.
+
 ### 2018
 
 __Shiva Taslimipoor__, Omid Rohanian, Ruslan Mitkov, Afsaneh Fazly: Identification of multiword expressions: A fresh look at modelling and evaluation. In Multiword expressions at length and in depth. Extended papers from the MWE 2017 workshop (editors: Stella Markantonatou, Carlos Ramisch, Agata Savary and Veronika Vincze), pages 299 - 317, Language Science Press, 2018.
