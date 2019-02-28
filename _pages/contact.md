@@ -6,11 +6,9 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.
 
-* Personal Email: ayman.boustati [at] outlook.com
-* Warwick Email: a.boustati [at] warwick.ac.uk
-* Turing Email: aboustati [at] turing.ac.uk
-* Twitter: [@AymanBoustati](https://twitter.com/AymanBoustati)
-* LinkedIn: [ayman-boustati](https://www.linkedin.com/in/ayman-boustati/)
-* Github: [aboustati](https://github.com/aboustati)
-* Warwick Webpage: [Mathematics for Real-World Systems](https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/boustati/)
+* Personal Email: sh.taslimi [at] gmail.com
+* Wolverhampton Email: shiva.taslimi [at] wlv.ac.uk
+* LinkedIn: [ayman-boustati](https://uk.linkedin.com/in/shiva-taslimi-7b873a86)
+* Github: [shivaat](https://github.com/shivaat/)
+* Google Scholar: Shiva Taslimi(http://scholar.google.com/citations?user=fZ9cwawAAAAJ&hl=en)
  
