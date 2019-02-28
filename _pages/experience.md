@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: talk
 title: ""
 permalink: /experience/
 author_profile: true
