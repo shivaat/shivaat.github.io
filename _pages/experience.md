@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: ""
 permalink: /experience/
 author_profile: true
