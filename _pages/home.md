@@ -9,7 +9,7 @@ redirect_from:
   - /home.html
 ---
 
-Hi! I am now a postdoctoral researcher at the [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/). I have recently finished my PhD in Computational Linguistics on the topic of 'Automatic Identification and Translation of Multiword Expressions'. 
+Hi! I am now a postdoctoral researcher at the [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/). I have recently finished my PhD in the area of Netural Language Processing on the topic of 'Automatic Identification and Translation of Multiword Expressions'. 
 
 ### Research Interests:
 * Natural Language Processing and Deep Learning
