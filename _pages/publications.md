@@ -7,7 +7,10 @@ author_profile: true
 
 ### 2019
 
-Omid Rohanian, __Shiva Taslimipoor__, Samaneh Kouchaki, Le An Ha, Ruslan Mitkov: Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions. Accepted to be published at NAACL-HLT 2019.
+Omid Rohanian, __Shiva Taslimipoor__, Samaneh Kouchaki, Le An Ha, Ruslan Mitkov: Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions. In proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 2692 - 2698, 2019.
+
+__Shiva Taslimipoor__, Omid Rohanian, Sara Moze: GCN-Sem at SemEval-2019 Task 1: Semantic Parsing using Graph Convolutional and Recurrent Neural Networks. In proceedings of the 13th International Workshop on Semantic Evaluation (SemEval 2019), pages 102 - 106, 2019.
+
 
 ### 2018
 
