@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Forthcomming
+
+Shiva Taslimipoor, Omid Rohanian, Le An Ha: Cross-lingual Transfer Learning and Multitask Learning for Capturing Multiword Expressions, accepted for the Joint Workshop on Multiword Expressions and WordNet (MWE-WN 2019) at ACL 2019.
+
 ### 2019
 
 Omid Rohanian, __Shiva Taslimipoor__, Samaneh Kouchaki, Le An Ha, Ruslan Mitkov: Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions. In proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 2692 - 2698, 2019.
