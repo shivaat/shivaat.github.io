@@ -9,7 +9,7 @@ redirect_from:
   - /home.html
 ---
 
-Hi! I am now a postdoctoral research associate at the [ALTA Institute](http://alta.cambridgeenglish.org/) at University of Cambridge. Before that I was a research associate at [RGCL] at Wolverhampton where I also finished my PhD in the area of Natural Language Processing on the topic of 'Automatic Identification and Translation of Multiword Expressions'. 
+Hi! I am now a postdoctoral research associate at the [ALTA Institute](http://alta.cambridgeenglish.org/) at University of Cambridge. Before that I was a research associate at [RGCL](http://rgcl.wlv.ac.uk/) at Wolverhampton where I also finished my PhD in the area of Natural Language Processing on the topic of 'Automatic Identification and Translation of Multiword Expressions'. 
 
 ### Research Interests:
 * Natural Language Processing and Deep Learning
