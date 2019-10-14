@@ -12,7 +12,7 @@ Institute for Automated Language Teaching and Assessment (ALTA), Department of C
 
 ### Postdoctoral Research Associate, October 2018 - September 2019
 Research Group in Computational Linguistics, University of Wolverhapton
-* I work on a project on predicting item characteristics for Multiple Choice Question Answering.
+* I worked on a project on predicting item characteristics for Multiple-Choice Question Answering.
     
 ### Teaching assistant, Fall 2016
 Research Group in Computational Linguistics, University of Wolverhapton
