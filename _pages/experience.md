@@ -7,7 +7,10 @@ author_profile: true
 
 ## WORK EXPERIENCE
 
-### Postdoctoral Research Associate, October 2018 - Present
+### Postdoctoral Research Associate, October 2019 - Present
+Institute for Automated Language Teaching and Assessment (ALTA), Department of Computer Science and Technology, University of Cambridge
+
+### Postdoctoral Research Associate, October 2018 - September 2019
 Research Group in Computational Linguistics, University of Wolverhapton
 * I work on a project on predicting item characteristics for Multiple Choice Question Answering.
     
@@ -26,10 +29,16 @@ Jahrom Universities, Iran
 
 ## COMMUNITY SERVICE
 
-### Editorial Assistant, 2014 - Present
+### Editorial Assistant, 2014 - 2019
 Cambridge Journal of Natural Language Engineering
 
-### Organising Committee Member, November 2017
+### Programme Committee Member
+RANLP 2019, Europhras 2019
+
+### Organising Committee Member, August 2019
+The Summer School for Deep Learning in NLP 2019, Varna, Bulgaria.
+
+### Organising Committee Member, November 2017 
 * EUROPHRAS 2017, London, UK.
 * Student Research Workshop, held in conjunction with EUROPHRAS 2017, London, UK.
 
