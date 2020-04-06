@@ -7,9 +7,17 @@ author_profile: true
 
 ### Forthcomming
 
-Shiva Taslimipoor, Omid Rohanian, Le An Ha: Cross-lingual Transfer Learning and Multitask Learning for Capturing Multiword Expressions, accepted for the Joint Workshop on Multiword Expressions and WordNet (MWE-WN 2019) at ACL 2019.
+Omid Rohanian, Marek Rei, Shiva Taslimipoor, Le An Ha: Verbal Multiword Expressions for Identification of Metaphor. Accepted as a short paper for ACL 2020.
+
+Sian Gooding, Shiva Taslimipoor, Ekatherina Kochmar: Incorporating Multiword Expressions in Phrase Complexity Estimation. Accepted for the READI workshop at LREC 2020.
+
+Ruslan Mitkov, Shiva Taslimipoor: What matters more: The size of the corpora or their quality? The case of automatic translation of multiword expressions using comparable corpora. Book chapter in Computational Phraseology. pp. 178–187. John Benjamins.
+
+Shiva Taslimipoor, Gloria Corpas Pastor, Omid Rohanian: Detecting semantic difference: A new model based on knowledge and collocational association. Book chapter in Computational Phraseology. pp. 312–324. John Benjamins.
 
 ### 2019
+
+__Shiva Taslimipoor__, Omid Rohanian, Le An Ha: Cross-lingual Transfer Learning and Multitask Learning for Capturing Multiword Expressions, accepted for the Joint Workshop on Multiword Expressions and WordNet (MWE-WN 2019) at ACL 2019.
 
 Omid Rohanian, __Shiva Taslimipoor__, Samaneh Kouchaki, Le An Ha, Ruslan Mitkov: Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions. In proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 2692 - 2698, 2019.
 
