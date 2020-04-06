@@ -43,4 +43,4 @@ The Summer School for Deep Learning in NLP 2019, Varna, Bulgaria.
 * Student Research Workshop, held in conjunction with EUROPHRAS 2017, London, UK.
 
 ### Reviewer
-JNLE, RANLP 2017, SLSP 2017, CICLing 2017, RANLP 2015, AISP 2012
+JNLE, ACL 2020, RANLP (2019, 2017, 2015), Europhras 2017, SLSP 2017, CICLing 2017, AISP 2012
