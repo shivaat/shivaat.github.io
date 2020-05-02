@@ -11,9 +11,11 @@ Omid Rohanian, Marek Rei, Shiva Taslimipoor, Le An Ha: Verbal Multiword Expressi
 
 Sian Gooding, Shiva Taslimipoor, Ekatherina Kochmar: Incorporating Multiword Expressions in Phrase Complexity Estimation. Accepted for the READI workshop at LREC 2020.
 
-Ruslan Mitkov, Shiva Taslimipoor: What matters more: The size of the corpora or their quality? The case of automatic translation of multiword expressions using comparable corpora. Book chapter in Computational Phraseology. pp. 178–187. John Benjamins.
 
-Shiva Taslimipoor, Gloria Corpas Pastor, Omid Rohanian: Detecting semantic difference: A new model based on knowledge and collocational association. Book chapter in Computational Phraseology. pp. 312–324. John Benjamins.
+### 2020
+
+Ruslan Mitkov, __Shiva Taslimipoor__: What matters more: The size of the corpora or their quality? The case of automatic translation of multiword expressions using comparable corpora. Book chapter in Computational Phraseology. pp. 178–187. John Benjamins.
+
 
 ### 2019
 
