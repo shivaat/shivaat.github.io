@@ -7,23 +7,26 @@ author_profile: true
 
 ### Forthcomming
 
-Omid Rohanian, Marek Rei, Shiva Taslimipoor, Le An Ha: Verbal Multiword Expressions for Identification of Metaphor. Accepted as a short paper for ACL 2020.
-
-Sian Gooding, Shiva Taslimipoor, Ekatherina Kochmar: Incorporating Multiword Expressions in Phrase Complexity Estimation. Accepted for the READI workshop at LREC 2020.
-
+Shiva Taslimipoor, Sara Bahaadini, Ekaterina Kochmar: MTLB-STRUCT @PARSEME 2020: Capturing Unseen Multiword Expressions Using Multi-task Learning and Pre-trained Masked Language Models. Accepted for MWE-LEX 2020 @ COLING.
 
 ### 2020
+
+Omid Rohanian, Marek Rei, __Shiva Taslimipoor__, Le An Ha: Verbal Multiword Expressions for Identification of Metaphor. In proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), pages 2890-2895, 2020.
+
+Sian Gooding, __Shiva Taslimipoor__, Ekatherina Kochmar: Incorporating Multiword Expressions in Phrase Complexity Estimation. In proceedings of the 1st Workshop on Tools and Resources to Empower People with REAding DIfficulties (READI), pages 14-19, 2020.
+
+David Strohmaier, Sian Gooding, __Shiva Taslimipoor__, Ekaterina Kochmar: SeCoDa: Sense Complexity Dataset. In proceedings of The 12th Language Resources and Evaluation Conference (LREC 2020), pages 5962-5967, 2020
 
 Ruslan Mitkov, __Shiva Taslimipoor__: What matters more: The size of the corpora or their quality? The case of automatic translation of multiword expressions using comparable corpora. Book chapter in Computational Phraseology. pp. 178–187. John Benjamins.
 
 
 ### 2019
 
-__Shiva Taslimipoor__, Omid Rohanian, Le An Ha: Cross-lingual Transfer Learning and Multitask Learning for Capturing Multiword Expressions, accepted for the Joint Workshop on Multiword Expressions and WordNet (MWE-WN 2019) at ACL 2019.
+__Shiva Taslimipoor__, Omid Rohanian, Le An Ha: Cross-lingual Transfer Learning and Multitask Learning for Capturing Multiword Expressions. In proceedings of the Joint Workshop on Multiword Expressions and WordNet (MWE-WN 2019), pages 155-161, 2019.
 
-Omid Rohanian, __Shiva Taslimipoor__, Samaneh Kouchaki, Le An Ha, Ruslan Mitkov: Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions. In proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 2692 - 2698, 2019.
+Omid Rohanian, __Shiva Taslimipoor__, Samaneh Kouchaki, Le An Ha, Ruslan Mitkov: Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions. In proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 2692-2698, 2019.
 
-__Shiva Taslimipoor__, Omid Rohanian, Sara Moze: GCN-Sem at SemEval-2019 Task 1: Semantic Parsing using Graph Convolutional and Recurrent Neural Networks. In proceedings of the 13th International Workshop on Semantic Evaluation (SemEval 2019), pages 102 - 106, 2019.
+__Shiva Taslimipoor__, Omid Rohanian, Sara Moze: GCN-Sem at SemEval-2019 Task 1: Semantic Parsing using Graph Convolutional and Recurrent Neural Networks. In proceedings of the 13th International Workshop on Semantic Evaluation (SemEval 2019), pages 102-106, 2019.
 
 
 ### 2018
