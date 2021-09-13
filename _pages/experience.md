@@ -29,6 +29,12 @@ Jahrom Universities, Iran
 
 ## COMMUNITY SERVICE
 
+### Standing Committee Member, 2020 - 2022
+[SIGLEX-MWE section](https://multiword.org)
+
+### Organising Committee Member, August 2021
+[17th Workshop on Multiword Expressions (MWE 2021)](https://multiword.org/mwe2021/)
+
 ### Editorial Assistant, 2014 - 2019
 Cambridge Journal of Natural Language Engineering
 
@@ -43,4 +49,4 @@ The Summer School for Deep Learning in NLP 2019, Varna, Bulgaria.
 * Student Research Workshop, held in conjunction with EUROPHRAS 2017, London, UK.
 
 ### Reviewer
-JNLE, ACL 2020, RANLP (2019, 2017, 2015), Europhras 2017, SLSP 2017, CICLing 2017, AISP 2012
+JNLE, ACL (2021, 2020), EMNLP (2021, 2020), EACL 2021, RANLP (2021, 2019, 2017, 2015), COLING 2020, Europhras 2017, SLSP 2017, CICLing 2017, AISP 2012
