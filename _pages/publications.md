@@ -7,7 +7,15 @@ author_profile: true
 
 ### Forthcomming
 
-Zheng Yuan, Shiva Taslimipoor, Christopher Davis, Christopher Bryant: Multi-Class Grammatical Error Detection for Correction:A Tale of Two Systems. Accepted for EMNLP 2021.
+Shiva Taslimipoor, Christopher Bryant, Zheng Yuan: Improving Grammatical Error Correction for Multiword Expressions. Accepted for MWE 2022 @ LREC.
+
+Mariano Felice, Shiva Taslimipoor, Oistein E. Andersen, Paula Buttery: CEPOC: The Cambridge Exams Publishing Open Cloze dataset. Accepted for LREC 2022.
+
+Mariano Felice, Shiva Taslimipoor, Paula Buttery: Constructing Open Cloze Tests Using Generation and Discrimination Capabilities of Transformers. Accepted for Findings of ACL 2022.
+
+### 2021
+
+Zheng Yuan, __Shiva Taslimipoor__, Christopher Davis, Christopher Bryant: Multi-Class Grammatical Error Detection for Correction:A Tale of Two Systems. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021).
 
 ### 2020
 
