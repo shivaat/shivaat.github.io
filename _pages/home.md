@@ -14,7 +14,7 @@ Hi! I am a postdoctoral research associate in the [NLIP group](https://www.cl.ca
 ### Research Interests:
 * Natural Language Processing and Deep Learning
 * NLP for Building Educational Applications
-* Processing Multiword Expression and Figurative Language
+* Processing Multiword Expressions and Figurative Language
 * Distributional Semantics 
 * Comparable Corpora 
 * Cross-lingual Text Mining
