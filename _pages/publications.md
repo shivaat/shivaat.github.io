@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Forthcomming
+### 2022
 
-Shiva Taslimipoor, Christopher Bryant, Zheng Yuan: Improving Grammatical Error Correction for Multiword Expressions. Accepted for MWE 2022 @ LREC.
+__Shiva Taslimipoor__, Christopher Bryant, Zheng Yuan: Improving Grammatical Error Correction for Multiword Expressions. Accepted for MWE 2022 @ LREC.
 
-Mariano Felice, Shiva Taslimipoor, Oistein E. Andersen, Paula Buttery: CEPOC: The Cambridge Exams Publishing Open Cloze dataset. Accepted for LREC 2022.
+Mariano Felice, __Shiva Taslimipoor__, Oistein E. Andersen, Paula Buttery: CEPOC: The Cambridge Exams Publishing Open Cloze dataset. Accepted for LREC 2022.
 
-Mariano Felice, Shiva Taslimipoor, Paula Buttery: Constructing Open Cloze Tests Using Generation and Discrimination Capabilities of Transformers. Accepted for Findings of ACL 2022.
+Mariano Felice, __Shiva Taslimipoor__, Paula Buttery: Constructing Open Cloze Tests Using Generation and Discrimination Capabilities of Transformers. Accepted for Findings of ACL 2022.
 
 ### 2021
 
